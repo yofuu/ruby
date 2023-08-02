@@ -11,3 +11,10 @@ if age >= 30
 else
   puts "子供"
 end
+
+name = takashi
+if name == takashi
+  puts "名前は"+"name"+"です。"
+else
+  puts "名前は"+"name"+"ではありません。"
+end
