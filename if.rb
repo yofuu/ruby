@@ -13,7 +13,7 @@ else
 end
 
 name = takashi
-if name == takashi
+if name == tomo
   puts "名前は"+"name"+"です。"
 else
   puts "名前は"+"name"+"ではありません。"
