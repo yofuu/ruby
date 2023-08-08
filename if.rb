@@ -18,3 +18,4 @@ if name == tomo
 else
   puts "名前は"+"name"+"ではありません。"
 end
+
